@@ -1,0 +1,771 @@
+{
+	"_id": {
+		"$oid": "5f5e5e5d36adae20f291ec3f"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/35757cb7b6568e50633d5cd5c220b779",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2020-09-13T18:01:01.360Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Add a personalized image to your account by putting your best face forward.",
+	"name": "Best Face Forward",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "64b6e3ad83e21225c103a355"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/91fefb2323b8de571417547990448081",
+	"maximumAllowed": 6,
+	"created": {
+		"$date": "2023-07-18T19:10:37.167Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Share some of the art events that you participated in this summer by uploading an image as proof. You can't get smART without ART!",
+	"name": "I Know What You Did This Summer",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "64c9414683e21225c103a357"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/4818540608ed64ddc20ff0ac145fd901",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2023-08-01T17:30:46.014Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Welcome to a new year in Byng Arts. Join us in the auditorium for the first assembly and help us sort things out!",
+	"name": "Welcome Back Assembly (September 12th)",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "64c9427083e21225c103a358"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/18405a1f0060edcba21f4df4967c57e4",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2023-08-01T17:35:44.138Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "All Grade 8s are invited to join our first House event afterschool on September 12th. No Quidditch but wear something comfortable. This is a fun way to get to meet your fellow students. See you there.",
+	"name": "Grade 8 \"Sports\" Day - afterschool September 12",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "64f7667d83e21225c103a363"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/9fc9e77c5d37fcb29fb3c87614672f51",
+	"maximumAllowed": 3,
+	"created": {
+		"$date": "2023-09-05T17:33:49.541Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Get things started with your best creative foot forward - do an art event or two in the month of September and send in photo evidence.",
+	"name": "Saturn",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "64fb6b1483e21225c103a3b4"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/406f2d72fb5462efef4ddb66e0bcca72",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2023-09-08T18:42:28.816Z"
+	},
+	"category": [
+		"Art"
+	],
+	"description": "Each year we purchase a work from a graduating student and add it to our collection. See the pieces on display in the Gallery and document your visit with a photo.",
+	"name": "Art from the Archives",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "650cc65583e21225c103ad03"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/608e54b3500bef71361099ff2bd9fae6",
+	"maximumAllowed": 0,
+	"created": {
+		"$date": "2023-09-21T22:40:21.521Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "This is awarded to students who volunteer to help out with various Byng Arts related school events like Info Night and Sports Day. We couldn't do it without you!",
+	"name": "Helping Hand",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6516ffb383e21225c103ae68"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/b5384d039c6f78145d7806f3a351667c",
+	"maximumAllowed": 3,
+	"created": {
+		"$date": "2023-09-29T16:47:47.963Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "This is the badge for art activities done in October! Get your art on and record your activity(ies). Hit Submit Proof and send me the evidence. Good luck.",
+	"name": "Arachne",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "652db92483e21225c103afe1"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/fc1416b26502ebf2e2a0906e4bb7e277",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2023-10-16T22:28:52.801Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Here is you chance to find your birthday buddy. Find a student or staff member that has the same exact birthdate as you and take a selfie together.",
+	"name": "They Say It's Your Birthday",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66e1e3581e794717a7cc17b2"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/285b4ae1c07b02a9be6301243c251b0b",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-09-11T18:37:12.837Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Well Done! You carefully followed the instructions to unlock your new passport account. Now take a screen shot of the passport page and hit submit to claim this achievement.",
+	"name": "Master Code Breaker",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66e9be181e794717a7cc1d0e"
+	},
+	"user": {
+		"$oid": "59b06947b7d541ea08a8cc27"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/871fbb330c4cb1a4cbf16a265fe0aa3f",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-09-17T17:36:24.882Z"
+	},
+	"category": [
+		"Academics"
+	],
+	"description": "For submitting an entry to the writing contest",
+	"name": "Bennington College Writing Contest",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66eb0f5e1e794717a7cc1e37"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/c9b68bc68a4b6a7e335a86679e29a9fe",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-09-18T17:35:26.024Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Flamenco Caramelita performs September 19th. This is our first FAB of the year and we are excited to welcome back two former Byng students, Lara and Deborah!",
+	"name": "La Caramelita",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66f30c471e794717a7cc244d"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/61a9b9075a73be9e7cef2c26cf61db56",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-09-24T19:00:23.425Z"
+	},
+	"category": [
+		"Art"
+	],
+	"description": "Hey Artists! All visual arts 8 students are invited to the artroom for FIT on Tuesday, September 24th.",
+	"name": "Visual Arts 8 Welcome Event",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66f6fbab1e794717a7cc2628"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/8f61aa8a040d9ac1c5b85e279ba198aa",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-09-27T18:38:35.579Z"
+	},
+	"category": [
+		"Drama"
+	],
+	"description": "Hey actors, we hope that you enjoyed the presentation by the Grade 9s on how to prepare for the year ahead. We will unlock this badge for you so look in your account next week to make sure that it is there.",
+	"name": "Grade 8 Drama Welcome Event",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6704a6da1e794717a7cc2766"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/d463210c5cb5def4e0d665edca7676f7",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-10-08T03:28:26.018Z"
+	},
+	"category": [
+		"Art"
+	],
+	"description": "Come and see our latest art show of student work in the Lord Byng Gallery. Take a photo of your favorite piece and hit Submit Proof to unlock this badge.",
+	"name": "Fall Gallery Show",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "671676011e794717a7cc27e3"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/7553341776aa6817496b5c0a05b4020c",
+	"maximumAllowed": 6,
+	"created": {
+		"$date": "2024-10-21T15:40:49.202Z"
+	},
+	"category": [
+		"Music"
+	],
+	"description": "You attended a concert or performed as part of one of our ensembles (Band, Choir, Strings) during October and November.",
+	"name": "Fall Music Performance",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "671678ea1e794717a7cc27e5"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/fb912a36548f7cf5ba0dd46c95645dad",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-10-21T15:53:14.966Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Join the spooky fun afterschool in the gallery foyer. Music, Games, and snacks. 3:30-5:00pm",
+	"name": "De-Coffinated Coffee House - Thursday, October 24th",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6717dfd01e794717a7cc28b8"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/88b9d735a438d4fdc1c8ed749a0cd424",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-10-22T17:24:32.502Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Dress up in costume on Thursday, October 31st and visit an English teacher or Mr. Hartley-Folz to get your ticket. Alternatively, take a selfie clearly showing yourself at school and hit Submit Proof. So scary!",
+	"name": "Byng ARRGGHHHS!",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "672003711e794717a7cc292a"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/6c9f968c8d7e3f90d3ad6f6106c23746",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-10-28T21:34:41.664Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Come out for movie night in the auditorium on Wednesday, October 30th. Event starts at 3:45. Cost $2. Treats available for purchase. In partnership with main school student council.",
+	"name": "Wednesday Night at the Movies",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "672006ff1e794717a7cc2956"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/c9558da9ae165494736e39cf6ae6bba1",
+	"maximumAllowed": 3,
+	"created": {
+		"$date": "2024-10-28T21:49:51.519Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Take part in an art event during the month of November. Take a photo to document and hit Submit to redeem.",
+	"name": "Neptune",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "672405431e794717a7cc2c0b"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/a99409914706547abf85bc27cad28a4f",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-10-31T22:31:31.463Z"
+	},
+	"category": [
+		"Art"
+	],
+	"description": "Pumpkin event in the art room for Halloween - so scary.",
+	"name": "Grade 8 Visual Art Event",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "672d41041e794717a7cc2f27"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/37eaaf7b540057c5983b1fef535ec326",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-11-07T22:36:52.369Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "You were part of the group of student performers who helped us reflect on the purpose of Remembrance Day, Lest We Forget.",
+	"name": "Remembrance Day Ceremony",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "67339dcc1e794717a7cc3216"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/000d0a4726d03cfd5c23b938b8618a76",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-11-12T18:26:20.475Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Art Panel for Grade 10-12 students takes place during FIT on Thursday, November 14th. Reps from film, music, art, and drama will share insights during this MANDATORY assembly.",
+	"name": "Art Panel Presentation - Nov 14",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6740d8f21e794717a7cc34cd"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/af28c7b72f773c2639413f13af3af352",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-11-22T19:18:10.606Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Winter is coming November 27th at the Roundhouse Community Center. Gala theme is all things winter - come in costume. Dinner is pizza, chips, and pop. Dance and games to follow. Sign in at the event to unlock this badge.",
+	"name": "Once Upon A Winter - November 27th",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "674dee121e794717a7cc396f"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/5c7573f7fabf0e163e786429822e48e5",
+	"maximumAllowed": 5,
+	"created": {
+		"$date": "2024-12-02T17:27:46.606Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Tis the holiday season. Unlock your art related events for December by sending in photo proof of your activities. Only two months to go until the first passport tally!",
+	"name": "Luna",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6750a3671e794717a7cc39da"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/479823b7de72060af55fa78485f2fc48",
+	"maximumAllowed": 2,
+	"created": {
+		"$date": "2024-12-04T18:45:59.686Z"
+	},
+	"category": [
+		"Drama"
+	],
+	"description": "Come see Drama 10 perform the award winning play \"Proof\", Thursday, December 5th and Tuesday December 10th at 6:30pm in the auditorium.",
+	"name": "\"Proof\" Winter Drama 10 Performance",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "675890bf1e794717a7cc3a8c"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/420f100586df58d5feba08877dba289c",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-12-10T19:04:31.715Z"
+	},
+	"category": [
+		"Art"
+	],
+	"description": "Come and see our latest art show of student work in the Lord Byng Gallery. Take a photo of your favorite piece and hit Submit Proof to unlock this badge.",
+	"name": "Winter Art Show",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6759e8f41e794717a7cc3aa2"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/5436c8f893beb114403b9b2f6d53ff54",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-12-11T19:33:08.641Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Join a screening of student films from the Byng Film Council. Come to the Theatre, Tuesday, December 17th at lunch.",
+	"name": "The Best Movies Ever",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "675fc06a1e794717a7cc3c47"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/b2f608189e4e268ba6752855623de2bc",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2024-12-16T05:53:46.312Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "Join the celebration on the last day of school before Winter Break. Document the performers busting a move and hit submit to unlock this badge.",
+	"name": "Air Band 2024",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6776db561e794717a7cc3ee6"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/dd322264ae30be8ea9a9342b9f5d446b",
+	"maximumAllowed": 3,
+	"created": {
+		"$date": "2025-01-02T18:30:46.016Z"
+	},
+	"category": [
+		"General"
+	],
+	"description": "Make an Arty Start to 2025. Send in evidence of your interactions with the arts to unlock this badge.",
+	"name": "Janus",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "677d7ca71e794717a7cc3f39"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/000d0a4726d03cfd5c23b938b8618a76",
+	"maximumAllowed": 4,
+	"created": {
+		"$date": "2025-01-07T19:12:39.409Z"
+	},
+	"category": [
+		"Events"
+	],
+	"description": "This is part of the Grade 10-12 grad program. Guest writers, make up artists, and and other professionals will be presenting. Make sure to check the dates and sign up with your Career Ed/Capstone teachers.",
+	"name": "Byng Arts Career Ed Workshops",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "67816d7c1e794717a7cc40c6"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/6963a9a5aef6ebcb30b86c4ad715e3a5",
+	"maximumAllowed": 4,
+	"created": {
+		"$date": "2025-01-10T18:57:00.134Z"
+	},
+	"category": [
+		"Music"
+	],
+	"description": "You attended a concert or performed as part of one of our ensembles (Band, Choir, Strings) during January and February.",
+	"name": "Winter Music Performance",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "678552121e794717a7cc428c"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/5aa9107d49f7aeb815579c40564cb5e3",
+	"maximumAllowed": 2,
+	"created": {
+		"$date": "2025-01-13T17:49:06.223Z"
+	},
+	"category": [
+		"Drama"
+	],
+	"description": "January 15th and 16th in the Theatre. Attend Theatre 9's series of short comedic performances. Enjoy the show, get a badge - what could be better?",
+	"name": "Theatre 9 Presents Furniture Follies",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "67856ef91e794717a7cc42e3"
+	},
+	"user": {
+		"$oid": "57dc5d168fff68360512900c"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/c6a149860b7de58e8fd26e6afaf7b041",
+	"maximumAllowed": 1,
+	"created": {
+		"$date": "2025-01-13T19:52:25.788Z"
+	},
+	"category": [
+		"Art"
+	],
+	"description": "Hey Grade 8 artists, come to A223, the art class, to do our next Art Event!",
+	"name": "Grade 8 Visual Art Event - January 23",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6792e8d21e794717a7cc4573"
+	},
+	"user": {
+		"$oid": "59b06947b7d541ea08a8cc27"
+	},
+	"logic": "return user.badges.length === 0;",
+	"logicVersion": 1,
+	"isMeta": false,
+	"imageURL": "./modules/badges/client/img/badges/uploads/fa293cd00681bc04b7cc2f2e0c90f67b",
+	"maximumAllowed": 3,
+	"created": {
+		"$date": "2025-01-24T01:11:46.069Z"
+	},
+	"category": [
+		"Academics"
+	],
+	"description": "For submitting pieces to the Interlochen Review 2025: poetry, fiction, multimedia essays, songs, screenplays, visual arts, mixed-media works. Maximum 3 badges given.",
+	"name": "Interlochen Review 2025",
+	"__v": 0
+}
+theEnd
